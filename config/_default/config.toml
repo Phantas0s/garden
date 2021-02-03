@@ -58,6 +58,11 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 # url = "https://de.linkedin.com/"
 
 [[params.socialIcons]]
+icon = "fas fa-gem"
+title = "The Valuable Dev"
+url = "https://thevaluable.dev"
+
+[[params.socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/Phantas0s"
@@ -104,3 +109,6 @@ url = "/post/"
 # weight = 400
 # identifier = "contact"
 # url = "/contact/"
+
+[blackfriday]
+  hrefTargetBlank = true
