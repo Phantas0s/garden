@@ -15,23 +15,25 @@
     --blockquote-text-color: #858585;
     --blockquote-border-color: #dfe2e5;
     --thumbnail-height: 15em;
+    --link-color: #4FB1EA;
     scroll-padding-top: 100px;
 }
 
 html[data-theme='dark'] {
     --bg-color: #292a2d;
     --secondary-bg-color: #2c2d32;
-    --heading-color: rgb(169, 169, 179);
-    --body-color: rgb(169, 169, 179);
+    --heading-color: #fff;
+    --body-color: #fff;
     --post-color: rgba(0, 0, 0, 0.44);
-    --border-color: rgb(38, 38, 38);
+    --border-color: rgb(169, 169, 179);
     --form-border-color: rgb(169, 169, 179);
     --form-button-hover-border-color: #fff;
     --pre-bg-color: rgb(33, 33, 45);
-    --nav-text-color: rgb(191, 191, 191);
+    --nav-text-color: #fff;
     --tag-color: rgb(191, 191, 191);
     --blockquote-text-color: #808080;
     --blockquote-border-color: #424242;
+    --link-color: #4FB1EA;
 }
 
 html {
@@ -41,17 +43,21 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Merriweather', sans-serif;
     font-size: 15px;
     width: 100%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', sans-serif;
+}
+
 p {
     line-height: 1.9em;
     font-weight: 400;
-    font-size: 14px;
+    /* font-size: 15px; */
 }
 
 a {
@@ -105,7 +111,7 @@ a:visited {
 
 a:hover,
 a:active {
-    color: #2660ab;
+    color: #2F69B3;
 }
 
 /*basic styles ends*/
@@ -180,7 +186,7 @@ a:active {
     height: auto;
     float: right;
     width: 75%;
-    margin-top: 60px;
+    margin-top: 5.5em;
 }
 
 .page-top {
@@ -190,12 +196,12 @@ a:active {
     z-index: 3;
     background-color: var(--bg-color);
     height: 60px;
-    border-bottom: 1px solid var(--border-color);
+    /* border-bottom: 1px solid var(--border-color); */
 }
 
 .page-top .nav {
     list-style: none;
-    padding: 11px 30px;
+    padding: 1em 30px;
     float: left;
     font-size: 12px;
     display: block;
@@ -213,7 +219,7 @@ a:active {
 }
 
 .page-top .nav a:hover {
-    color: #2660ab;
+    color: var(--link-color);
 }
 
 .page-top .nav a.current {
@@ -329,7 +335,7 @@ a:active {
 }
 
 .sidebar .social-links a:hover {
-    color: #2660ab;
+    color: var(--link-color);
 }
 
 .post {
@@ -338,14 +344,12 @@ a:active {
 }
 
 .post .post-title h1 {
-    text-transform: uppercase;
     font-size: 30px;
     letter-spacing: 5px;
     line-height: 1;
 }
 
 .post .post-title h2 {
-    text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
@@ -354,13 +358,12 @@ a:active {
 }
 
 .post .post-title h3 {
-    text-transform: uppercase;
     letter-spacing: 1px;
     line-height: 1;
-    font-weight: 600;
+    font-weight: bold;
     /* color: #464646; */
     color: var(--heading-color);
-    font-size: 22px;
+    font-size: 1.5em;
     margin: 0;
 }
 
@@ -375,9 +378,9 @@ a:active {
 }
 
 .post .post-content a {
-    text-decoration: none;
-    letter-spacing: 1px;
-    color: #2660ab;
+    text-decoration: underline;
+    /* letter-spacing: 1px; */
+    color: var(--link-color);
 }
 
 .post .post-content a:hover {
@@ -567,7 +570,7 @@ a:active {
 }
 
 .footer a:hover {
-    color: #2660ab;
+    color: #2F69B3;
 }
 
 /*for archive*/
@@ -611,7 +614,7 @@ a:active {
 }
 
 .list-with-title .listing .listing-post a:hover {
-    color: #2660ab;
+    color: #2F69B3;
 }
 
 /* share */

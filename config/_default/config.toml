@@ -3,7 +3,7 @@ languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Matthieu's Garden"
 theme = "anatole"
-summarylength = 100
+summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Matthieu's Garden"
+title = "Garden of Thoughts"
 author = "Matthieu Cneude"
 #copyright = "2020-2021"
-description = "Where I grow my ideas"
+description = "Random thoughts and ideas by Matthieu Cneude"
 profilePicture = "images/garden_small.png"
 keywords = ""
 favicon = "favicons/"
@@ -32,7 +32,7 @@ customCss = []
 customJs = [] 
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
+doNotLoadAnimations = true
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
