@@ -11,6 +11,6 @@ The Valuable Dev will always be free, without any advertisement, affiliate link,
 
 Unfortunately, I have little time to write for it. I need to pay the bills, so I need to spend most of my time working for startups to fulfill their main goal: making money.
 
-I don't care about big cars, big flats, or even big computers; mine is 10 years old and works fine. The "rich and famous" lifestyle doesn't attract me at all, or I would have chosen a different path. But I would love to be able to write better articles to help even more, to write nice CLI tools which could make our life easier, to make more (and better) [videos](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg), or to [write books](https://themouseless.dev/).
+I don't care about big cars, big flats, or even big computers; mine is 10 years old and works fine. The "rich and famous" lifestyle doesn't attract me at all, or I would have chosen a different path. But I would love to be able to write better articles to help even more, to contribute more to [open source projects](https://github.com/Phantas0s), to make more (and better) [videos](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg), or to [write books](https://themouseless.dev/).
 
 When you buy one of my product, you give me *time* to spend on my free content. So from the bottom of my heart: thank you!
