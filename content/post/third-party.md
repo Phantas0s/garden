@@ -1,6 +1,6 @@
 +++
 date = "2021-02-05"
-title = "Third-party components."
+title = "Third-party components"
 tags = [
     'development', 
 ]
