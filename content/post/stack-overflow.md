@@ -1,10 +1,17 @@
++++
+date = "2021-02-05"
+title = "Why I don't use Stack Overflow anymore"
++++
+
 More I get experience as a software developer, less I find myself on Stack Overflow.
 
 What do I use when I have a problem?
 
 * With a programming language: I just look at the implementation when I don't know the purpose of a construct, or I search in the official documentation.
-* A CLI: man pages are my best friends.
-* My editor: I use Neovim and its help is awesome.
-* Doing something I really have no clue how to do: I Google it, and maybe I'll end up in Stack Overflow.
+* With a CLI: man pages are my best friends.
+* With my editor: I use Neovim and its help is awesome.
+* When I try to do something I have no clue about: I Google it, and maybe I'll end up on Stack Overflow.
 
-For the last point, I'll always try to find different sources confirming the ideas I can find on Stack Overflow. Why? Because the gamification system push people to give incomplete or wrong answers. I don't think people do that on purpose, it's just that we are naturally attracted to big numbers and rewards, even if they're virtual. So some will try to short circuit the system, more or less consciously.
+For the last point, I'll always try to find different sources confirming the ideas I can find on Stack Overflow. Why? Because the gamification system push people to give incomplete or wrong answers. [I don't think people do that on purpose](https://fs.blog/2017/04/mental-model-hanlons-razor/), it's just that we are naturally attracted to big numbers and rewards, even if they're virtual. So some will try to short circuit the system, more or less consciously.
+
+I'm also aware that I'm living in the shell, so I've access to a lot of good documentation for all my tools.
