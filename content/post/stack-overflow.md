@@ -1,6 +1,9 @@
 +++
 date = "2021-02-05"
 title = "Why I don't use Stack Overflow anymore"
+tags = [
+    'development', 
+]
 +++
 
 More I get experience as a software developer, less I find myself on Stack Overflow.

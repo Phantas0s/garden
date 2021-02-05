@@ -1,6 +1,9 @@
 +++
 date = "2021-02-03"
 title = "Why Do I sell some of my content?"
+tags = [
+    'lifestyle', 
+]
 +++
 
 In this world where everything *looks* free, why do I sell some of my content?

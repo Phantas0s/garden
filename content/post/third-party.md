@@ -1,6 +1,9 @@
 +++
 date = "2021-02-05"
 title = "Third-party components."
+tags = [
+    'development', 
+]
 +++
 
 Some learning about third party libraries, APIs, and whatnot.
