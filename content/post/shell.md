@@ -6,6 +6,7 @@ tags = [
     'development', 
 ]
 +++
+
 In the 70s, they were entering commands in a shell (a software) using a teletype (think of it as a big keyboard) and a video terminal (actual screen). The teletype were sending commands to the shell, and you had the output on your fancy screen.
 
 We don't have teletype or a video terminal anymore. Instead, we have an emulation of these machines, called terminal emulators, or for short, terminals.

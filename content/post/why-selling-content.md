@@ -12,7 +12,7 @@ When I began to write for [The Valuable Dev](https://thevaluable.dev), 5 years a
 
 The Valuable Dev will always be free, without any advertisement, affiliate link, sponsor, or anything which could influence its vision. The only things which drive my writing are the comments, questions, and feedback of my readers.
 
-Unfortunately, I have little time to write for it. I need to pay the bills, so I need to spend most of my time working for startups to fulfill their main goal: making money.
+Unfortunately, I have little time to write for it. I need to pay the bills, so I need to spend most of my time working for startups, often to fulfill their main goal: making money.
 
 I don't care about big cars, big flats, or even big computers; mine is 10 years old and works fine. The "rich and famous" lifestyle doesn't attract me at all, or I would have chosen a different path. But I would love to be able to:
 
