@@ -36,7 +36,7 @@ I'll add here my weekly stand-up just to keep track of what I'm doing. I'm not s
 
 * I've spend a lot of time writing for my blog. I just need to fire up my grammar / syntax / wordiness tools, add an image or two, and my next article is ready.
 * Fixed a lot of typo and added some troubleshooting for my book, based on the feedback of the readers.
-* I've done my third midterm from Brian Harvey's SICP course. As always, barely above average, but this time I was pretty proud (didn't touched the book for 3 months). I remember quite a lot of stuff :)
+* I've done my third midterm from Brian Harvey's SICP course. As always, barely above average, but this time I was pretty proud (didn't touch the book for 3 months). I remember quite a lot of stuff :)
 * I'm mostly done with the CLI part for my Pocket app.
 * Reviewed some of my notes / mindmaps about writing and discrete maths.
 * Continue to read "Introduction to General System Thinking".
@@ -51,4 +51,3 @@ I'll add here my weekly stand-up just to keep track of what I'm doing. I'm not s
 * Continue my CLI / TUI for Pocket, hope to be done this week.
 * Continue to read "Introduction to General System Thinking".
 * Many calls / brainstorming sessions.
-
