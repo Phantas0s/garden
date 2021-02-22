@@ -1,7 +1,7 @@
 +++
 date = "2021-02-05"
 draft = true
-title = "Why I don't use Stack Overflow anymore"
+title = "Tweet to explain what's a teletype / terminal emulator"
 tags = [
     'development', 
 ]

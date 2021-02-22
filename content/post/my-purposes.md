@@ -1,6 +1,7 @@
 +++
 date = "2021-02-05"
 draft = true
+title = "My purpose"
 +++
 
 I have purposes in my life, and I would like most of my time dedicated to these purposes.

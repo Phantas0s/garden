@@ -1,6 +1,8 @@
 +++
 date = "2021-02-05"
 draft = true
+title = "I wanted to do it for 24 years: I released my first book!"
+canonical = "https://www.indiehackers.com/post/its-christmas-i-m-on-the-first-page-of-hn-ae12c1edde"
 +++
 
 ... and it feels so good! I'm on a little cloud for 3 days now. ☁️
@@ -73,7 +75,9 @@ If the book I was writing was a mountain I was climbing, my followers where this
 
 I wrote almost everyday from July 2020 to January 2021 (except a period of two months end of 2020... but it's another story). 
 
-And finally, last Monday, I released it! I had 600+ subscribers to the newsletter at that point; to me, it was crazy. If you would have told the 10 years-old-me that I would have 600 people interested by my book, I would have been the happiest little boy in the whole world!
+And finally, last Monday, I released it on [Flurly](https://flurly.com/). If you don't know, it's a new platform where you can sell products or membership, with a really good UI and options I never saw anywhere before. The founder is really responsive, too.
+
+I had 600+ subscribers to the newsletter at that point; to me, it was crazy. If you would have told the 10 years-old-me that I would have 600 people interested by my book, I would have been the happiest little boy in the whole world!
 
 I sold 40 books the first day. I couldn't believe it either. I thought that maybe two, three people would buy it. And then they would have asked for a refund. But 40 people!
 
@@ -95,6 +99,12 @@ The first day was mostly my subscribers buying the book. Then, I posted again on
 * [/r/commandline](https://www.reddit.com/r/commandline/comments/lfhrom/building_your_mouseless_development_environment/)
 
 The first one was a total flop. I knew it; wrong audience. The second one had way more success and sales than I could dream of.
+
+## The Role of Indie Hackers
+
+This post is dedicated to Indie Hacker;  this community helped me so much, it's incredible. I come here for years from time to time, and I often learn something new. I've got hundreds of good advice from you all, and I applied some of them for this book. 
+
+From the bottom of my heart: thank you all!
 
 ## The Results So Far
 

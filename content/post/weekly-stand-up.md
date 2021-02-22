@@ -1,9 +1,11 @@
 +++
-date = "2021-02-05"
-draft = "My weekly stands up"
-title = "Third-party components"
+date = "2021-02-22"
+draft = "false"
+title = "My Weekly Stand-Ups"
 tags = [
-    'development', 
+    'development',
+    'productivity',
+    'organization'
 ]
 +++
 
