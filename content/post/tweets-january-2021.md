@@ -33,7 +33,9 @@ I'm curious: what do you think about technical interviews? Technical tests? Did 
 
 ## 2021-01-14
 
-Payed trial days to hire developers will show you how they work in your team, in your business domain. Too expensive? How much cost a developer who's not a fit?For the first steps of a hiring process, looking at candidates' side projects should be enough. If they don't have any, a simple discussion can give you already a good idea if the candidate fits.
+Payed trial days to hire developers will show you how they work in your team, in your business domain. Too expensive? How much cost a developer who's not a fit?
+
+For the first steps of a hiring process, looking at candidates' side projects should be enough. If they don't have any, a simple discussion can give you already a good idea if the candidate fits.
 
 ## 2021-01-15
 
@@ -61,15 +63,21 @@ Next article on my blog (end of January): the imposter syndrome. What would you 
 
 ## 2021-01-20
 
-Developers are asked to know more and more, and to perform faster and faster. But health is the most important asset we have, including mental health. We need to take great care of it before anything else.Here are some articles you might find useful on the subject: https://thevaluable.dev/tags/mental-health/
+Developers are asked to know more and more, and to perform faster and faster. But health is the most important asset we have, including mental health. We need to take great care of it before anything else.
+
+Here are some articles you might find useful on the subject: https://thevaluable.dev/tags/mental-health/
 
 ## 2021-01-21
 
-I've had 30 000 visitors on my blog in December 2020. Thanks for everybody following my work, thanks for your feedbacks (good or bad), thanks for the time you've spent reading it. I would love to get to know you all.Even if my writing has more and more success, there is something which doesn't change: if only one person in the world find one of my article useful, I will always consider it a great achievement. Dear reader, I'm happy I could help you.
+I've had 30 000 visitors on my blog in December 2020. Thanks for everybody following my work, thanks for your feedbacks (good or bad), thanks for the time you've spent reading it. I would love to get to know you all.
+
+Even if my writing has more and more success, there is something which doesn't change: if only one person in the world find one of my article useful, I will always consider it a great achievement. Dear reader, I'm happy I could help you.
 
 ## 2021-01-22
 
-I believe that the SOLID principles try to oversimplify deeper ideas. It's a good example of an abstraction which generalise too much.I've revisited some months ago the Single Responsibility Principle, trying to clarify where it comes from and why so many developers misunderstand it. https://thevaluable.dev/single-responsibility-principle-revisited/
+I believe that the SOLID principles try to oversimplify deeper ideas. It's a good example of an abstraction which generalise too much.
+
+I've revisited some months ago the Single Responsibility Principle, trying to clarify where it comes from and why so many developers misunderstand it. https://thevaluable.dev/single-responsibility-principle-revisited/
 
 ## 2021-01-23
 
@@ -77,11 +85,17 @@ Being good at something and being good at teaching something are two different s
 
 ## 2021-01-24
 
-The code you write is a first draft. At the beginning, your knowledge is limited. More you'll work for a given business domain, more your knowledge will grow. You need then to rewrite your drafts to include this updated knowledge. This is called refactoring.You can get your code right the first time, but it's very rare. Don't let the analysis paralysis get you and write some code. You can always change it later.It doesn't mean that you should rush to write your code. Thinking about and preparing your design is important. You need to strike a balance.
+The code you write is a first draft. At the beginning, your knowledge is limited. More you'll work for a given business domain, more your knowledge will grow. You need then to rewrite your drafts to include this updated knowledge. This is called refactoring.
+
+You can get your code right the first time, but it's very rare. Don't let the analysis paralysis get you and write some code. You can always change it later.
+
+It doesn't mean that you should rush to write your code. Thinking about and preparing your design is important. You need to strike a balance.
 
 ## 2021-01-25
 
-Don't argue for too long. If you can't prove your point with solid data or good examples, write somewhere the discussion you had and wait to have these arguments. If you never find them, or if your worries never happen, you were probably wrong. The goal is not to be right or wrong anyway, it's to find the best solution. In that case there is no fight, no right or wrong, and you always move forward.
+Don't argue for too long. If you can't prove your point with solid data or good examples, write somewhere the discussion you had and wait to have these arguments. If you never find them, or if your worries never happen, you were probably wrong.
+
+ The goal is not to be right or wrong anyway, it's to find the best solution. In that case there is no fight, no right or wrong, and you always move forward.
 
 ## 2021-01-26
 
@@ -89,11 +103,15 @@ Communication is mostly about listening. Try not to guess what you're buddies wi
 
 ## 2021-01-27
 
-A reminder: the DRY principle has never been about code duplication, but about duplication of knowledge. These are two different things.I've written about it a while ago if you want to know more. Even better: read The Pragmatic Programmer. https://thevaluable.dev/dry-principle-cost-benefit-example/
+A reminder: the DRY principle has never been about code duplication, but about duplication of knowledge. These are two different things.
+
+I've written about it a while ago if you want to know more. Even better: read The Pragmatic Programmer. https://thevaluable.dev/dry-principle-cost-benefit-example/
 
 ## 2021-01-28
 
-I find the concept of abstraction fascinating. We speak about it all the time as developers, yet I'm not sure we always understand it fully.I would define it like this: an abstraction is meant to hide useless details to bring out more useful ones in a precise context.
+I find the concept of abstraction fascinating. We speak about it all the time as developers, yet I'm not sure we always understand it fully.
+
+I would define it like this: an abstraction is meant to hide useless details to bring out more useful ones in a precise context.
 
 ## 2021-01-29
 
@@ -101,7 +119,13 @@ If you're working on the wrong product, a perfect codebase won't make it good. C
 
 ## 2021-01-30
 
-Beginners often ask what language they should learn first. My answer: it doesn't really matter. Just pick a modern language like Ruby, Python, PHP, or Golang for example.If you're searching a job, look at the job offers you might be interested in, and look at the language they ask for.Some communities prefer some languages than others, often because of the libraries available. Example: python for data analytics.When developers answer this question, you'll get a subjective answer. For example, notice that I didn't include JavaScript in my examples: I'm afraid that the language has too many traps for beginners. But it's a subjective opinion, and it should be taken with a grain of salt.
+Beginners often ask what language they should learn first. My answer: it doesn't really matter. Just pick a modern language like Ruby, Python, PHP, or Golang for example.
+
+If you're searching a job, look at the job offers you might be interested in, and look at the language they ask for.
+
+Some communities prefer some languages than others, often because of the libraries available. Example: python for data analytics.
+
+When developers answer this question, you'll get a subjective answer. For example, notice that I didn't include JavaScript in my examples: I'm afraid that the language has too many traps for beginners. But it's a subjective opinion, and it should be taken with a grain of salt.
 
 ## 2021-01-31
 
