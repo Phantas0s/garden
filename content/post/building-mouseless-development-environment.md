@@ -1,5 +1,5 @@
 +++
-date = "2021-02-05"
+date = "2021-02-11"
 draft = true
 title = "I wanted to do it for 24 years: I released my first book!"
 canonical = "https://www.indiehackers.com/post/its-christmas-i-m-on-the-first-page-of-hn-ae12c1edde"
