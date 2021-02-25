@@ -2,6 +2,9 @@
 date = 2021-02-25
 draft = "false"
 title = "Tweets From January 2021"
+tags = [
+    'tweets',
+]
 +++
 ## 2021-01-09
 

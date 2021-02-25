@@ -17,6 +17,9 @@ cat >> "$FILE"<< EOF
 date = $(date +"%Y-%m-%d")
 draft = "false"
 title = "Tweets From ${1^} $CURRENT_YEAR"
+tags = [
+    'tweets',
+]
 +++
 EOF
 
