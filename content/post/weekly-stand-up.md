@@ -53,3 +53,19 @@ I'll add here my weekly stand-up just to keep track of what I'm doing. I'm not s
 * Continue my CLI / TUI for Pocket, hope to be done this week.
 * Continue to read "Introduction to General System Thinking".
 * Many calls / brainstorming sessions.
+
+## 2021-03-01
+
+💫 Last Week:
+
+* Spent a LOT of time writing for my blog.
+* Read the chapter 4.1 of the SICP (the metacircular evaluator). Really cool stuff.
+* Released my new blog article, and it had... way more success than I thought. So so happy and thankful about that! February is a blessed month for me 🥰
+* Released a new video on my Youtube channel about sed.
+* Reviewed some of my notes / mindmaps about writing, learning, and discrete maths.
+* Continue to read "Introduction to General System Thinking".
+
+🔨 This Week:
+
+* Relaxing. I'll spend my time with my girlfriend who's in holiday
+* ... I won't be able to resist the urge to write for my blog and continue my CLI for pocket 😇
