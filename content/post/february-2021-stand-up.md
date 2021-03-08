@@ -1,5 +1,5 @@
 +++
-date = "2021-03-08"
+date = "2021-02-22"
 draft = "false"
 title = "Weekly Stand-Ups - February 2021"
 tags = [
