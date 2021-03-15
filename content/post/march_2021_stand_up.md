@@ -43,3 +43,24 @@ tags = [
 * Trying to get done my second Youtube video about sed.
 * I'm thinking to build a consultancy business (problem solving is so sweet 💖), which would be more like a freelance business at the beginning... in COVID time it will be a challenge, but difficult to say before trying.
 * Doing and reviewing some mindmaps, as always.
+
+## 2021-03-15
+
+💫 Last Week:
+
+* Lot of [writing for my blog](https://thevaluable.dev), as always.
+* Just released a new update for [my book](https://themouseless.dev), including a brand new chapter "alternative tools".
+* Worked again on my [biggest side project DevDash](https://github.com/Phantas0s/devdash): doing some cleaning and refactoring mostly.
+* Began the foundations for my next book :)
+* Made a [Youtube video about the CLI sed](https://www.youtube.com/watch?v=BtZB-fndkzM).
+* Diving more into the metacircular evaluator (SICP).
+* Review of some of my mindmaps as always.
+
+🔨 This Week:
+
+* Writing for my blog. A lot. Again.
+* Seriously begin my new book.
+* Continuing the metacircular evaluator for the SICP.
+* Trying to find some freelance gig.
+* Reading, taking notes,  and reviewing some mindmaps, as always.
+* Maybe a new Youtube video?
