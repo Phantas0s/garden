@@ -64,3 +64,25 @@ tags = [
 * Trying to find some freelance gig.
 * Reading, taking notes,  and reviewing some mindmaps, as always.
 * Maybe a new Youtube video?
+
+
+## 2021-03-22
+
+💫 Last Week:
+
+* The usual [writing for my blog](https://thevaluable.dev).
+* Worked on my various open source projects.
+* Worked on what-could-be-my-new-book-but-not-sure-yet.
+* Made a short introduction to wget (Youtube video).
+* Diving more into the metacircular evaluator (SICP).
+* The usual review of some of my mindmaps.
+
+🔨 This Week:
+
+* Writing for my blog. A lot. Again.
+* Working on my open source projects.
+* Working on a series of Youtube video about awk.
+* Continuing the metacircular evaluator for the SICP.
+* Trying to find some freelance gig.
+* Reading, taking notes, and reviewing some mindmaps, as always.
+* Thinking about a course on Golang.
