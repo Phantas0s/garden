@@ -91,7 +91,7 @@ tags = [
 
 💫 Last Week:
 
-* Wrote for my blog for my next big article: active communication for developers.
+* Wrote for my blog for my next big article.
 * Released an article [about inheritance](https://thevaluable.dev/guide-inheritance-oop/).
 * Began to refactor my bash scripts installing all my development environment.
 * Officially began my new book: [soft skills for developers](https://airtable.com/shrXKIbNQgtgArdJa).
