@@ -86,3 +86,21 @@ tags = [
 * Trying to find some freelance gig.
 * Reading, taking notes, and reviewing some mindmaps, as always.
 * Thinking about a course on Golang.
+
+## 2021-03-29
+
+💫 Last Week:
+
+* Wrote for my blog for my next big article: active communication for developers.
+* Released an article [about inheritance](https://thevaluable.dev/guide-inheritance-oop/).
+* Began to refactor my bash scripts installing all my development environment.
+* Officially began my new book: [soft skills for developers](https://airtable.com/shrXKIbNQgtgArdJa).
+* Began to work on a video for my Youtube channel about the basics of awk.
+* I decided to stop the SICP for now, the metacircular evaluator is less interesting somehow. I do a break from my computer science self-study this week.
+* The usual review of some of my mind maps.
+
+🔨 This Week:
+
+* Continue to work on everything I was working last week.
+* Try to search some freelance jobs (more or less 😁)
+* I'll do a break at the end of the week; it's chocolate time 🍫🐰
