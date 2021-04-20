@@ -41,3 +41,21 @@ tags = [
 * I'll record my second video about Awk
 * I've an interview for a company. I didn't even apply... I'm still not sure going into freelancing because of COVID. Let's see how it goes.
 * I try to develop a new habit: reading computer science every evening before sleeping. My sleep was super good after some good old graph theory 🤣
+
+## 2021-04-19
+
+💫 Last Week:
+
+* Continue to work on my new book.
+* Wrote for my blog.
+* Wrote for my new blog The Mouseless Dev 😅
+* Recorded my second video on my Youtube channel about Awk.
+* Did some interviews which didn't go anywhere (I refuse homework assignment which are 6+ hours now...)
+* My new habit reading computer science stuff for 30min before sleeping is going strong. I've the impress I remember more the knowledge too. Interesting.
+
+🔨 This Week:
+
+* I've some ideas for a consulting business and I'll poke around to see if some people could be potentially interested. This is my main priority.
+* I also need to do some papers concerning freelancing.
+* Continue to write, write, and write.
+* Might finish the new version of DevDash (one of my side project) to make the interface easier to use.
