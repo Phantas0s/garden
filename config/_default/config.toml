@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Garden of Thoughts"
+title = "Garden of Experience"
 author = "Matthieu Cneude"
 #copyright = "2020-2021"
-description = "Matthieu's random ideas"
+description = "The Path of an Indie Developer"
 profilePicture = "images/garden_small.png"
 keywords = ""
 favicon = "favicons/"
