@@ -59,19 +59,22 @@ I stopped writing, at one point in my teenage years. I got more interested in co
 
 I stopped writing for years. I even forgot how much I liked it.
 
-But it was in a little corner of my brain. My pen. My typewriter. MushroomLand. The shark-head-monster. We never really forget, we just lost the road to our memories.
+But it was in a little corner of my brain. My pen. My typewriter. MushroomLand. The shark-head-monster. We never really forget, we just lose the roads to our memories.
 
-And then I begin my blog, [The Valuable Dev](https://thevaluable.dev/).
+And then I began my blog, [The Valuable Dev](https://thevaluable.dev/). I don't really know why. I was sure of two things, though:
 
-BAM! My love for writing came back in 2.89 seconds! What a good joke. No, that's not true; I'm lying to your face, right now. If **this** is not a good argument to stop reading this, nothing can stop you.
+1. It would be in-depth article about software development.
+2. There would be pictures with lego characters. Why? No idea.
 
-It was hard. I had to write a whole bunch of crappy stuff to reignite the passion of old. You understand why I'm saying that you need to do the stuff to understand that you like the stuff? Yeah.
+BAM! My love for writing came back in 2.89 seconds! It's my passion, you know, it's normal and... What? If I'm lying? Well... how... yes... yes that's not true; I'm lying to your face, right now. If **this** is not a good argument to stop reading my rambling, nothing can stop you at this point.
 
-I mean it was hard, like uppercase HARD. And it wasn't even in my mother tongue 'cause, you know, why doing simple when you can complicate everything? And I wanted to speak to the whole world, not only to these French-frog-eaters. I'm French, by the way, in case you didn't get my accent.
+It was hard. Like uppercase HARD. I had to write a whole bunch of crappy stuff to reignite the passion of old. I put a lot of work to get back to my love of writing. You understand why I'm saying that you need to do the stuff to understand that you like the stuff? Yeah.
 
-Nobody read my articles at the beginning. Of course! But when you build something, you're always sure that the world will come to you. It didn't. To this day.
+And I wasn't even writing in my mother tongue 'cause, you know, why doing simple when you can complicate everything? And I wanted to speak to the whole world, not only to these French-frog-eaters. I'm French, by the way, in case you didn't get my accent.
 
-I didn't care. Because I liked writing, at least after a while. That's another secret: if you like it, you'll do it. If you don't like it, you'll do it, but not enough to have some kind of *success*. It's still useful to do it to discover more about what you want.
+On top that I didn't like writing these stuff, nobody was reading them, at the beginning. Of course! But when you build something, you're always sure, somewhere in a hidden place in your brain, that the world will come to you. It didn't. To this day.
+
+I didn't care after a while. Because I liked writing again. That's another secret: if you begin to like something, you've more chances you'll do it. If you don't like it, you'll do it, but not enough to have some kind of *success*, or even *results*. It's still useful to do it to discover more about what you want, though.
 
 Ah! Success! We'll come back to this one. Again.
 
