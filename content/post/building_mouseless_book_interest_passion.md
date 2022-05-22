@@ -8,6 +8,9 @@ alias = ['building_mouseless_book_spark']
 
 {{< picture src="/garden/images/2022/building_a_book/02_tools_mouseless.png" webp="/garden/images/2022/building_a_book/02_tools_mouseless.webp" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">}}
 
+{{<series>}}
+{{<mouseless_book_series>}}
+{{</mouseless_book_series>}}
 
 This series of article is about me rambling about the book I've written, [Building Your Mouseless Development Environment](https://themouseless.dev/).
 

@@ -4,6 +4,8 @@ draft = "false"
 title = "Building A Book 01 - A Story"
 tags = ['writing', 'book']
 alias = ['building_mouseless_book_presentation']
+excerpt = "I explain the ultimate secret to get rich and fall in love."
+description = "I explain the ultimate secret to get rich and fall in love."
 +++
 
 {{< picture src="/garden/images/2022/building_a_book/01_preface_outline.png" webp="/garden/images/2022/building_a_book/01_preface_outline.webp" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">}}
@@ -29,3 +31,9 @@ Everybody can write a book. Everybody. But the path to *success* is quite counte
 Success? Did I get some success writing this book? Plenty of it. A whole gallon. Maybe more. But... did I also just said that I didn't get so much money out of it? What success am I talking about, then? Love? Glory? Happiness? Car? House? Keyboard?
 
 That's a very good question indeed.
+
+Here's the complete series:
+
+{{<series>}}
+{{<mouseless_book_series>}}
+{{</mouseless_book_series>}}
