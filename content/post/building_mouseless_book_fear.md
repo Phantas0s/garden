@@ -1,10 +1,15 @@
 +++
-date = "2022-05-01"
-draft = "true"
-title = "Building A Book 04 - Fear And Success"
+date = "2022-06-26"
+draft = "false"
+title = "Building A Book 04 - Fear and Success"
 tags = ['writing', 'book']
-alias = ['building_mouseless_book_spark']
 +++
+
+{{< picture src="/garden/images/2022/building_a_book/04_fear.jpg" webp="/garden/images/2022/building_a_book/04_fear.webp" alt="Love, fear, and support">}}
+
+{{<series>}}
+{{<mouseless_book_series>}}
+{{</mouseless_book_series>}}
 
 So I was rambling, [in the last post](/garden/post/building_mouseless_book_idea/), about this simple fact: I love what I do. That's why I can do it long enough to get some interesting results. It's only one third of the Magical Recipe for Success As I Define It™, though.
 
@@ -17,7 +22,7 @@ Here are the two other ingredients:
 
 With this recipe, you'll be rich in no time, the New York Time will speak about your infinite legacy, and you'll have three ghostwriters fighting to write your memoirs. Guaranteed!
 
-So, how should you focus? Well, I've my method I use for years, because it works. Will it work for you? I've no idea. Our brain are similar, yet different. But if you're interested, it's [there]().
+So, how should you focus? Well, I've my method I use for years, because it works. Will it work for you? I've no idea. Our brains are similar, yet different. But if you're interested, it's [there]().
 
 ## Habit of Writing
 

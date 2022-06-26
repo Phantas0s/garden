@@ -3,7 +3,6 @@ date = "2022-05-22"
 draft = "false"
 title = "Building A Book 03 - Idea and Maturation"
 tags = ['writing', 'book']
-alias = ['building_mouseless_book_spark']
 excerpt = "Glory and fortune will wait for those who learn these words!"
 description = "Glory and fortune will wait for those who learn these words!"
 +++

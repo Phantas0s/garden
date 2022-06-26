@@ -3,7 +3,6 @@ date = "2022-05-14"
 draft = "false"
 title = "Building A Book 02 - Interest, Passion, and Work"
 tags = ['writing', 'book']
-alias = ['building_mouseless_book_spark']
 +++
 
 {{< picture src="/garden/images/2022/building_a_book/02_tools_mouseless.png" webp="/garden/images/2022/building_a_book/02_tools_mouseless.webp" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">}}
