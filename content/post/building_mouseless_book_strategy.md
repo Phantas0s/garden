@@ -1,9 +1,11 @@
 +++
-date = "2022-07-16"
-draft = "true"
+date = "2022-07-24"
+draft = "false"
 title = "Building A Book 05 - Strategy"
 tags = ['writing', 'book']
 +++
+
+{{< picture src="/garden/images/2022/building_a_book/05_strategy.jpg" webp="/garden/images/2022/building_a_book/05_strategy.webp" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">}}
 
 {{<series>}}
 {{<mouseless_book_series>}}
@@ -55,9 +57,9 @@ These were the artists. Like any good orchestra, however, you also need a good c
 4. A makefile as the conductor, to orchestrate all these CLIs.
 5. Neovim as the editor, to compose my delightful prose.
 
-I didn't know most of these tools when I began. I was a beginner builder. But I knew good old Arch Linux (btw), Neovim, and the Linux shell fairly well. It was enough to learn easily the rest quite easily.
+You can find the different files in this [Github repo](https://github.com/Phantas0s/mouseless-book-behind-scene). It changed quite a bit since then (I made many modifications while working on my [second book](https://themouseless.dev/vim/)) but the main ideas where already there.
 
-**TODO** Illustration of my workflow. - see my notes for Amboss
+I didn't know most of these tools at the beginning. I was a beginner builder. But I knew good old Arch Linux, Neovim, and the Linux shell fairly well. It was enough to learn easily the rest quite easily.
 
 This workflow allowed me to control granularly every step, to do exactly what I wanted. I could control the details. It's different from having a software doing everything, without letting much control.
 
