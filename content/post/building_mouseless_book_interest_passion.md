@@ -11,7 +11,7 @@ tags = ['writing', 'book']
 {{<mouseless_book_series>}}
 {{</mouseless_book_series>}}
 
-This series of article is about me rambling about the book I've written, [Building Your Mouseless Development Environment](https://themouseless.dev/).
+We were speaking about interest, passion, and work in the previous article of this series. Let's look now at the concrete process and the roadblocks I had to face while writing the book.
 
 ## It All Begin At The Beginning
 

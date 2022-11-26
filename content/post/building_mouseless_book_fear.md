@@ -11,18 +11,18 @@ tags = ['writing', 'book']
 {{<mouseless_book_series>}}
 {{</mouseless_book_series>}}
 
-So I was rambling, [in the last post](/garden/post/building_mouseless_book_idea/), about this simple fact: I love what I do. That's why I can do it long enough to get some interesting results. It's only one third of the Magical Recipe for Success As I Define It™, though.
+So I was rambling, in the third part of this series, about a simple fact: I love what I do. That's why I can do it long enough to get some interesting results. But it's only one third of the Magical Recipe for Success As I Define It™. The suspense is intense: what are the other two?
 
 ## The Real True Recipe for Success To Be Rich and Powerful
 
-Here are the two other ingredients:
+Let's not wait longer: here are the two other ingredients for success:
 
-1. It's important for me to unfocus and relax, to boost my creativity. It's not about trying to reach my goal directly, but to think more deeply about what I want to accomplish, and found new and secret paths. It's where my most original ideas visit my brain.
-2. It's important to know when to focus to do the things. To take action. To implement these ideas. Without actions, ideas are invisible and forgotten.
+1. It's important for me to unfocus and relax, in order to boost my creativity. It's not about trying to reach my goal directly, but to think more deeply about what I want to accomplish, and found new and secret paths. It's where the most original ideas visit my brain.
+2. It's important to know when to focus to do the things. To take action. To implement these ideas. Without actions, ideas are invisible; they never cross path with reality.
 
-With this recipe, you'll be rich in no time, the New York Time will speak about your infinite legacy, and you'll have three ghostwriters fighting to write your memoirs. Guaranteed!
+With this recipe, you'll be rich in no time, the New York Time will speak about your infinite legacy, and you'll have three ghostwriters fighting to write your biography. Guaranteed!
 
-So, how should you focus? Well, I've my method I use for years, because it works. Will it work for you? I've no idea. Our brains are similar, yet different. But if you're interested, it's [there]().
+So, how should we focus? Well, I've my method I follow for years, 'cause it works for me. Will it work for you? I've no idea. Our brains are similar, yet different. But if you're interested, it's [there](https://thevaluable.dev/side-project-tools-practices/).
 
 ## Habit of Writing
 

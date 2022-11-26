@@ -11,7 +11,7 @@ tags = ['writing', 'book']
 {{<mouseless_book_series>}}
 {{</mouseless_book_series>}}
 
-It doesn't look like it, but the previous posts of my series were about important stuff: the stuff we have in our head. Let's go a bit more into the writing itself now. What was the crazy strategy I came up with to write this book?
+It doesn't look like it, but the previous posts of my series were about important stuff: the stuff we have in our head. The stuff which define our reality. Let's explore now the writing itself. What was the crazy strategy I came up with to write this book?
 
 ## A Book is a Big Thing
 

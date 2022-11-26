@@ -2,7 +2,7 @@
 date = "2021-02-03"
 title = "Why Do I sell some of my content?"
 tags = [
-    'lifestyle', 
+    'lifestyle',
 ]
 +++
 
@@ -19,6 +19,6 @@ I don't care about big cars, big flats, or even big computers; mine is 10 years 
 * Write more and better articles.
 * Contribute to [open source projects](https://github.com/Phantas0s).
 * Make more [videos](https://www.youtube.com/channel/UCoJtk2M8bme9KXTe6F3K-Yg).
-* Write [new books](https://themouseless.dev/).
+* Write [new books](https://themouseless.dev/vim).
 
 When you buy one of my product, you give me *time* to spend on my free content. So from the bottom of my heart: thank you!

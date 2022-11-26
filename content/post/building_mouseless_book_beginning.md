@@ -10,6 +10,10 @@ description = "I explain the ultimate secret to get rich and fall in love."
 
 {{< picture src="/garden/images/2022/building_a_book/01_preface_outline.png" webp="/garden/images/2022/building_a_book/01_preface_outline.webp" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">}}
 
+{{<series>}}
+{{<mouseless_book_series>}}
+{{</mouseless_book_series>}}
+
 Me, Matthieu, Developer Extraordinaire, I've written a book!
 
 It's called [Building Your Mouseless Development Environment](https://themouseless.dev/). What? If I made a lot of money out of it? Well, not really. That was not the purpose, even if I'm happy to get some gold coins for my hard work.
@@ -32,8 +36,3 @@ Success? Did I get some success writing this book? Plenty of it. A whole gallon.
 
 That's a very good question indeed.
 
-Here's the complete series:
-
-{{<series>}}
-{{<mouseless_book_series>}}
-{{</mouseless_book_series>}}
