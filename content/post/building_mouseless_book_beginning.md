@@ -35,4 +35,3 @@ Everybody can write a book. Everybody. But the path to *success* is quite counte
 Success? Did I get some success writing this book? Plenty of it. A whole gallon. Maybe more. But... did I also just said that I didn't get so much money out of it? What success am I talking about, then? Love? Glory? Happiness? Car? House? Keyboard?
 
 That's a very good question indeed.
-
