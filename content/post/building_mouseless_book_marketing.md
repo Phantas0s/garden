@@ -1,16 +1,18 @@
 +++
-date = "2022-11-17"
-draft = "true"
+date = "2022-11-26"
+draft = "false"
 title = "Building A Book 06 - Marketing"
 tags = ['writing', 'book']
 alias = ['building_mouseless_book_spark']
 +++
 
+{{< picture src="/garden/images/2022/building_a_book/06_marketing.jpg" webp="/garden/images/2022/building_a_book/06_marketing.webp" alt="Building Your Mouseless Development Environment was on the front page of Hacker News!">}}
+
+This series of article rambles about the book I've written, [Building Your Mouseless Development Environment](https://themouseless.dev/).
+
 {{<series>}}
 {{<mouseless_book_series>}}
 {{</mouseless_book_series>}}
-
-This series of article is about me rambling about the book I've written, [Building Your Mouseless Development Environment](https://themouseless.dev/).
 
 Marketing is bad! Erk! BAD BAD BAD
 
@@ -87,6 +89,6 @@ For the launch, I simply selected a couple of channel where I could speak about 
 
 As I was explaining before (I hope you remember!), the newsletter is the best way I have to connect with the readers. I also had good returns on Reddit; this subreddit `/r/commandline` is great.
 
-I also got lucky: my post on Hacker News went on the front page, which drove the first 300 sales of the book. It was a great momentum I didn't expect! I exchanged some email with one of the moderator of hacker news at the time, so it helped. They're very nice, and always happy to help.
+I also got lucky: my post on Hacker News went on the front page, bringing the first 300 sales. It was a great momentum I didn't expect! I exchanged some mails with one of Hacker News' moderator before posting, and it definitely helped. Hacker news moderators are in general very nice and happy to help!
 
 That's it folks! That's ~~marketing~~ discoverability!
