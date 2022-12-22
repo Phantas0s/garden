@@ -1,6 +1,6 @@
 +++
-date = "2022-12-13"
-draft = "true"
+date = "2022-12-22"
+draft = "false"
 title = "Building A Book 07 - Fun, Fear, Pain, and Accomplishment"
 tags = ['writing', 'book']
 alias = ['building_mouseless_book_spark']
