@@ -6,4 +6,4 @@ This series of article rambles about the book I've written, [Building Your Mouse
 4. [Building A Book 04 - Fear and Success](/garden/post/building_mouseless_book_fear/)
 5. [Building A Book 05 - Strategy](/garden/post/building_mouseless_book_strategy/)
 6. [Building A Book 06 - Marketing](/garden/post/building_mouseless_book_marketing/)
-7. [Building A Book 07 - Marketing](/garden/post//)
+7. [Building A Book 07 - Fun, Fear, Pain, and Accomplishment](/garden/post/building_mouseless_book_creation_process/)

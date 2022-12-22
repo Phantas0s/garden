@@ -36,11 +36,11 @@ Thinking about it, we should invent a new word for what I'm trying to do. It's n
 
 But to help these people, they need to know that this book exists at the first place.
 
-So we went from annoying Coca Cola ads to a guy who try to show what he has written to people who might want it. Does it sound better? Well, I hope so, because if it doesn't I stop selling these books right now.
+So we went from annoying Coca Cola ads to a guy (me!) who try to show what he has written to people who might want it. Does it sound better? Well, I hope so, because if it doesn't I stop selling these books right now.
 
-What I'm trying to say here is that "marketing" (let's call it "discoverability" in my case, shall we?) is not a bad thing for small entities (I'm a small entity! Hurray!) which genuinely try to help. Of course, I've money to gain in the operation; but, ideally, it should be a win-win situation. It's all a question of *intent*.
+What I'm awkwardly trying to say here is that "marketing" (let's call it "discoverability", shall we?) is not a bad thing for small creators (I'm small! Hurray!). Of course, I've money to gain in the operation; but, ideally, it should be a win-win situation. It's all a question of *intent*.
 
-So let's stop saying that marketing is bad. It's bad when it's only directed for the good of the company. It's bad when it's annoying. It's bad when it's not honest. But honest discoverability is a necessity, for anybody to show their creations.
+So let's stop saying that marketing is bad. It's bad when it's only directed for the good of the company. It's bad when it's annoying. It's bad when it's not honest. But honest discoverability is a necessity, for anybody to show their babies.
 
 ## Crafting the Win-Win
 
@@ -80,12 +80,12 @@ The release day is considered an important day, because it can create momentum. 
 
 For the launch, I simply selected a couple of channel where I could speak about the book, and where people could be interested by it. In order of importance:
 
-1. My newsletter
-2. Reddit (subreddit `/r/commandline`).
-3. Hacker News
-4. Other social media I won't name; they didn't help in any way.
+1. My newsletter.
+2. Reddit (subreddit [/r/commandline](https://www.reddit.com/r/commandline/comments/lfhrom/building_your_mouseless_development_environment)).
+3. [Hacker News](https://news.ycombinator.com/item?id=26087892).
+4. Other social media, like Twitter; they didn't help much.
 
-As I was explaining before (I hope you remember!), the newsletter is the best way I have to connect with the readers. I also had good returns on Reddit; this subreddit `/r/commandline` is great.
+As I was explaining before (yeah, I know, you don't remember; me neither, I had to look for it), the newsletter is the best way I have to connect with the readers. I also had good returns on Reddit; this subreddit `/r/commandline` is great.
 
 I also got lucky: my post on Hacker News went on the front page, bringing the first 300 sales. It was a great momentum I didn't expect! I exchanged some mails with one of Hacker News' moderator before posting, and it definitely helped. Hacker news moderators are in general very nice and happy to help!
 

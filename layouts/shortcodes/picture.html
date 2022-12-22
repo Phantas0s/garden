@@ -1,3 +1,4 @@
+{{ with .Get "link" }}<a style="display:block;" href="{{.}}">{{ end }}
 {{ with .Get "caption" }}<figure>{{ end }}
 <picture>
     {{ with .Get "webp" }}<source srcset="{{.}}" type="image/webp">{{ end }}
@@ -5,3 +6,4 @@
 </picture>
 {{ with .Get "caption" }}<figcaption>{{.}}</figcaption>{{ end }}
 {{ with .Get "caption" }}</figure>{{ end }}
+{{ with .Get "link" }}</a>{{ end }}
