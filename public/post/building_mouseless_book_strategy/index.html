@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" data-theme=""><head><script src="/garden/livereload.js?mindelay=10&amp;v=2&amp;port=1818&amp;path=garden/livereload" data-no-instant defer></script>
+    <title> Matthieu Cneude | Building A Book 05 - Strategy </title>
+
+    
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.147.5"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="Weird Thoughts And Stuff">
+    
+    <link rel="stylesheet"
+          href="http://localhost:1818/garden/css/style.min.924f03d617d2e634c7f20cdeefecab07166ddae98744168617b440444ff23313.css"
+          integrity="sha256-kk8D1hfS5jTH8gze7&#43;yrBxZt2umHRBaGF7RARE/yMxM="
+          crossorigin="anonymous"
+          type="text/css">
+    
+    <link rel="stylesheet"
+        href="http://localhost:1818/garden/css/markupHighlight.min.8735c129318a1c824d066fc2cd1e3911054460819c296ac99007aeb5044b6605.css"
+        integrity="sha256-hzXBKTGKHIJNBm/CzR45EQVEYIGcKWrJkAeutQRLZgU="
+        crossorigin="anonymous"
+        type="text/css">
+    
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+          integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Noto Serif:regular,bold,italic,bolditalic|Open Sans"
+          crossorigin="anonymous">
+
+    
+    <link rel="shortcut icon" href="http://localhost:1818/garden/favicons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1818/garden/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1818/garden/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1818/garden/favicons/favicon-16x16.png">
+
+    <link rel="canonical" href="http://localhost:1818/garden/post/building_mouseless_book_strategy/">
+
+    
+    
+    
+    
+    <script type="text/javascript"
+            src="http://localhost:1818/garden/js/anatole-header.min.df804b63b5bd8474ea0756ea874bc8f1e92552708cc6ea43aa0d76981dc419f9.js"
+            integrity="sha256-34BLY7W9hHTqB1bqh0vI8eklUnCMxupDqg12mB3EGfk="
+            crossorigin="anonymous"></script>
+
+
+    
+        
+        
+        <script type="text/javascript"
+                src="http://localhost:1818/garden/js/anatole-theme-switcher.min.3829579c725749492568b0e6fa9da3012a7fc37fd291b4fd79e33c1df5d8a34a.js"
+                integrity="sha256-OClXnHJXSUklaLDm&#43;p2jASp/w3/SkbT9eeM8HfXYo0o="
+                crossorigin="anonymous"></script>
+    
+    
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1818/garden/images/site-feature-image.png">
+  <meta name="twitter:title" content="Building A Book 05 - Strategy">
+  <meta name="twitter:description" content="This series of article rambles about the book I’ve written, Building Your Mouseless Development Environment.">
+
+</head>
+<body><div class="sidebar . ">
+    <div class="logo-title">
+        <div class="title">
+            <img src="http://localhost:1818/garden/images/garden_small.png" alt="profile picture">
+            <h3 title=""><a href="/garden">Garden of Experience</a></h3>
+            <div class="description">
+                <p>Weird Thoughts And Stuff</p>
+            </div>
+        </div>
+    </div>
+    <ul class="social-links">
+        
+            <li>
+                <a href="https://thevaluable.dev" rel="me" target="_blank" aria-label="The Valuable Dev">
+                    <i class="fas fa-gem fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://github.com/Phantas0s" rel="me" target="_blank" aria-label="GitHub">
+                    <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://twitter.com/Cneude_Matthieu" rel="me" target="_blank" aria-label="Twitter">
+                    <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/garden/index.xml" rel="me" target="_blank" aria-label="RSS">
+                    <i class="fa fa-rss fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+    <div class="footer">
+        <div class="by_farbox">&copy; Matthieu Cneude  2025 </div>
+    </div>
+</div>
+<div class="main">
+    <div class="page-top  . ">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+    </a>
+    <ul class="nav" id="navMenu">
+        
+        
+            
+            <li><a 
+                   href="/garden/"
+                        
+                   title="">Home</a></li>
+        
+            
+            <li><a 
+                   href="/garden/post/"
+                        
+                   title="">Posts</a></li>
+        
+        
+            <li class="theme-switch-item">
+                <a class="theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+    <div class="autopagerize_page_element">
+        <div class="content">
+    <div class="post  . ">
+        <div class="post-content">
+            
+            <div class="post-title">
+                <h3>Building A Book 05 - Strategy</h3>
+                
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date"> Sun, Jul 24, 2022
+                                           </span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time">5-minute read</span>
+                    </div>
+                
+            </div>
+
+            
+
+<picture>
+    <source srcset="/garden/images/2022/building_a_book/05_strategy.webp" type="image/webp">
+    <img   src="/garden/images/2022/building_a_book/05_strategy.jpg" alt="A glimpse to my horrible outline for Building Your Mouseless Development Environment">
+</picture>
+
+
+
+
+<p>This series of article rambles about the book I&rsquo;ve written, <a href="https://themouseless.dev/" target="_blank" rel="noopener">Building Your Mouseless Development Environment</a>.</p>
+<ol>
+<li><a href="/garden/post/building_mouseless_book_beginning/">Building A Book 01 - A Story</a></li>
+<li><a href="/garden/post/building_mouseless_book_interest_passion/">Building A Book 02 - Interest, Passion, and Work</a></li>
+<li><a href="/garden/post/building_mouseless_book_idea/">Building A Book 03 - Idea and Maturation</a></li>
+<li><a href="/garden/post/building_mouseless_book_fear/">Building A Book 04 - Fear and Success</a></li>
+<li><a href="/garden/post/building_mouseless_book_strategy/">Building A Book 05 - Strategy</a></li>
+<li><a href="/garden/post/building_mouseless_book_marketing/">Building A Book 06 - Marketing</a></li>
+<li><a href="/garden/post/building_mouseless_book_creation_process/">Building A Book 07 - Fun, Fear, Pain, and Accomplishment</a></li>
+</ol>
+
+<p>It doesn&rsquo;t look like it, but the previous posts of my series were about important stuff: the stuff we have in our head. The stuff which define our reality. Let&rsquo;s explore now the writing itself. What was the crazy strategy I came up with to write this book?</p>
+<h2 id="a-book-is-a-big-thing">A Book is a Big Thing</h2>
+<p>Writing a book is not a walk in the park. It&rsquo;s because a book is big. Hundreds of pages, sometimes thousands! How on Earth can somebody writes that much? Many (more talented) people did it before me, so there are some ways.</p>
+<p>You know what&rsquo;s also big? A cathedral. Let&rsquo;s argue that it&rsquo;s even bigger than a book. Why the hell I&rsquo;m speaking about a cathedral? Because of this story:</p>
+<p>You&rsquo;re walking on a street made of chocolate and, suddenly, you meet three stonemasons. They all do the same work, building a nice cathedral. You ask each of them, one after another, what on Earth they&rsquo;re doing and why they&rsquo;re not relaxing and eating some pieces of the road.</p>
+<p>The first one answer: &ldquo;I am cutting this stone to shape&rdquo;.
+The second one answer: &ldquo;I am building a great cathedral&rdquo;.
+The third one answer: &ldquo;I am working for the glory of God&rdquo;.</p>
+<p>All three are right, and they do need to do all three to get the cathedral right:</p>
+<ol>
+<li>The first builder work on the necessary details to build the cathedral itself.</li>
+<li>The second one look at the big picture, to be sure they indeed end up with a cathedral, and not with a rocket launcher.</li>
+<li>The third one has the higher goal in mind, the big purpose. Who wants to build a big stuff (like a cathedral) if it has no purpose?</li>
+</ol>
+<p>Replace the word &ldquo;cathedral&rdquo; with &ldquo;books&rdquo; and you have the overall strategy. I wasn&rsquo;t working for the glory of God, but the glory of Vim and The Shell, which is more or less the same.</p>
+<p>But here&rsquo;s the real difficulty: I had to think about all three points more or less <em>at the same time</em>. I&rsquo;m alone, so I needed to. You need to cram all our three builders in your brain.</p>
+<p>As much as possible, at least.</p>
+<h2 id="what-tools-to-build-a-book">What Tools to Build a Book?</h2>
+<p>At the time our three good builders were building the cathedral, they didn&rsquo;t really have a massive choice of tools. Or maybe they did; I don&rsquo;t know, I never built a cathedral.</p>
+<p>There are many tools available to write a book nowadays. But the theme of this specific book is important here. It&rsquo;s Building your Mouseless Development Environment, you remember? An obscure stuff about Linux, the shell, the command line, and keyboards.</p>
+<p>Would it be really honest to write the book using Windows 11 and Microsoft Word, using this damn mouse 98% of the time, without even opening a Linux shell? Not really, right? I like to be honest. It&rsquo;s easier to manage. Also, historically, I hate Word. And Windows. They inflicted too much pain to my little heart over the years.</p>
+<p>I went all in: I built a whole CLI pipeline using the shell (Zsh) to convert markdown to PDF, with a little detour via LaTeX, featuring:</p>
+<ol>
+<li>Pandoc, to convert markdown to LaTeX, and markdown to HTML.</li>
+<li>A bunch of Pandoc scripts (in Lua), to modify the AST created by pandoc, and spit the LaTeX and HTML I wanted.</li>
+<li>latexmk, to convert from LaTeX to PDF.</li>
+<li>ebook-convert, to convert from HTML to epub.</li>
+</ol>
+<p>These were the artists. Like any good orchestra, however, you also need a good conductor, and a fantastic composer:</p>
+<ol start="4">
+<li>A makefile as the conductor, to orchestrate all these CLIs.</li>
+<li>Neovim as the editor, to compose my delightful prose.</li>
+</ol>
+<p>You can find the different files in this <a href="https://github.com/Phantas0s/mouseless-book-behind-scene" target="_blank" rel="noopener">Github repo</a>. It changed quite a bit since then (I made many modifications while working on my <a href="https://themouseless.dev/vim/" target="_blank" rel="noopener">second book</a>) but the main ideas where already there.</p>
+<p>I didn&rsquo;t know most of these tools at the beginning. I was a beginner builder. But I knew good old Arch Linux, Neovim, and the Linux shell fairly well. It was enough to learn easily the rest quite easily.</p>
+<p>This workflow allowed me to control granularly every step, to do exactly what I wanted. I could control the details. It&rsquo;s different from having a software doing everything, without letting much control.</p>
+<p>This control has a price, however: it&rsquo;s more difficult to set up. A little price in my opinion, because the power of such workflow is way bigger than any easier, &ldquo;bundled&rdquo; solution.</p>
+<h2 id="experiments-and-iterations">Experiments and Iterations</h2>
+<p>As I was saying, I was one builder on this book, so I had to keep in mind as much as possible the details, the whole, and the purpose. Here&rsquo;s my usual workflow when I do something new, and building this book wasn&rsquo;t an exception:</p>
+<ol>
+<li>Experiment (details).</li>
+<li>Look at what happens (details / whole).</li>
+<li>Analyze the feedback: see if I wanted to keep or reject the results (whole).</li>
+<li>Ask for external feedback about the decisions made (purpose).</li>
+</ol>
+<p>It&rsquo;s difficult to see if my book would achieve its purpose for two reasons:</p>
+<ol>
+<li>I was too much &ldquo;in it&rdquo;. I didn&rsquo;t have any objectivity on the &ldquo;educative power&rdquo; of the book.</li>
+<li>I knew enough what I was talking about to write a book. But it&rsquo;s difficult to know how the readers would react to it.</li>
+</ol>
+<p>That&rsquo;s why external feedback were important. I was trying to teach something with this book, and the only ones who could tell me if it was successful were the potentials learners themselves.</p>
+<p>It&rsquo;s hard to get feedback. People are busy, and I totally get that. I&rsquo;m busy, too! And I&rsquo;m part of &ldquo;the people&rdquo; for others&rsquo; projects also. But, thanks to my blog and the surrounding community, I could gather enough feedback to get some directions and fix some problematic areas.</p>
+<p>If I need to do it all over again, I&rsquo;d use the same approach. And that&rsquo;s exactly what I&rsquo;m doing with <a href="https://themouseless.dev/vim/" target="_blank" rel="noopener">my new book</a>!</p>
+</div>
+        <div class="post-footer">
+            <div class="info">
+                
+                <span class="separator"><a class="tag" href="/garden/tags/writing/">writing</a><a class="tag" href="/garden/tags/book/">book</a></span>
+
+            </div>
+        </div>
+
+        
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/jquery.min.21ad544cace1cdad8d2b0acbd2a0f53a4cc73a1ff35720baeb69eac49b083fb8.js"
+        integrity="sha256-Ia1UTKzhza2NKwrL0qD1OkzHOh/zVyC662nqxJsIP7g="
+        crossorigin="anonymous"></script>
+
+
+
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/bundle.min.e1708c9f2f2ef008d86194c6201839f1be346eb6f6b86ddb53d17973ac3f80cc.js"
+        integrity="sha256-4XCMny8u8AjYYZTGIBg58b40brb2uG3bU9F5c6w/gMw="
+        crossorigin="anonymous"></script>
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/medium-zoom.min.00f0d88de05977c48e4c08c312d320dafb8f9c17cb793047b360556dac1cac7c.js"
+        integrity="sha256-APDYjeBZd8SOTAjDEtMg2vuPnBfLeTBHs2BVbawcrHw="
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

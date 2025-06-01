@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matthieu&#39;s Garden</title>
+    <link>http://localhost:1818/garden/post/</link>
+    <description>Recent content on Matthieu&#39;s Garden</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1818/garden/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building A Book 07 - Fun, Fear, Pain, and Accomplishment</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_creation_process/</link>
+      <pubDate>Thu, 22 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_creation_process/</guid>
+      <description>&lt;a style=&#34;display:block;&#34; href=&#34;http://localhost:1818/garden/images/2022/building_a_book/07_the_wall_big.jpg&#34;&gt;&#xA;&#xA;&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/07_the_wall.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/07_the_wall.jpg&#34; alt=&#34;A glimpse to my horrible outline for Building Your Mouseless Development Environment&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&lt;/a&gt;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 06 - Marketing</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_marketing/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_marketing/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/06_marketing.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/06_marketing.jpg&#34; alt=&#34;Building Your Mouseless Development Environment was on the front page of Hacker News!&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 05 - Strategy</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_strategy/</link>
+      <pubDate>Sun, 24 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_strategy/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/05_strategy.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/05_strategy.jpg&#34; alt=&#34;A glimpse to my horrible outline for Building Your Mouseless Development Environment&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 04 - Fear and Success</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_fear/</link>
+      <pubDate>Sun, 26 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_fear/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/04_fear.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/04_fear.jpg&#34; alt=&#34;Love, fear, and support&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 03 - Idea and Maturation</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_idea/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_idea/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/03_idea.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/03_idea.png&#34; alt=&#34;A glimpse to my horrible outline for Building Your Mouseless Development Environment&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 02 - Interest, Passion, and Work</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_interest_passion/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_interest_passion/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/02_tools_mouseless.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/02_tools_mouseless.png&#34; alt=&#34;A glimpse to my horrible outline for Building Your Mouseless Development Environment&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Building A Book 01 - A Story</title>
+      <link>http://localhost:1818/garden/post/building_mouseless_book_beginning/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/building_mouseless_book_beginning/</guid>
+      <description>&lt;picture&gt;&#xA;    &lt;source srcset=&#34;http://localhost:1818/garden/images/2022/building_a_book/01_preface_outline.webp&#34; type=&#34;image/webp&#34;&gt;&#xA;    &lt;img   src=&#34;http://localhost:1818/garden/images/2022/building_a_book/01_preface_outline.png&#34; alt=&#34;A glimpse to my horrible outline for Building Your Mouseless Development Environment&#34;&gt;&#xA;&lt;/picture&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;p&gt;This series of article rambles about the book I&amp;rsquo;ve written, &lt;a href=&#34;https://themouseless.dev/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Building Your Mouseless Development Environment&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Third-party components</title>
+      <link>http://localhost:1818/garden/post/third-party/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/third-party/</guid>
+      <description>&lt;p&gt;Some learning about third party libraries, APIs, and whatnot.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Never trust third parties. You don&amp;rsquo;t control them.&lt;/li&gt;&#xA;&lt;li&gt;Trust them even less than that.&lt;/li&gt;&#xA;&lt;li&gt;Isolate them as much as possible from the code you&amp;rsquo;ve written. Be prepared to swap them to other alternatives.&lt;/li&gt;&#xA;&lt;li&gt;If possible, have some end-to-end tests for the data you&amp;rsquo;re receiving. Creating fixtures from the data you fetch from time to time looks like the best solution.&lt;/li&gt;&#xA;&lt;li&gt;Use your own app daily to be aware quickly when one of them fail.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Why I don&#39;t use Stack Overflow anymore</title>
+      <link>http://localhost:1818/garden/post/stack-overflow/</link>
+      <pubDate>Fri, 05 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/stack-overflow/</guid>
+      <description>&lt;p&gt;More I get experience as a software developer, less I find myself on Stack Overflow.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why Do I sell some of my content?</title>
+      <link>http://localhost:1818/garden/post/why-selling-content/</link>
+      <pubDate>Wed, 03 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1818/garden/post/why-selling-content/</guid>
+      <description>&lt;p&gt;In this world where everything &lt;em&gt;looks&lt;/em&gt; free, why do I sell some of my content?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

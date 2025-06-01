@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en" data-theme=""><head><script src="/garden/livereload.js?mindelay=10&amp;v=2&amp;port=1818&amp;path=garden/livereload" data-no-instant defer></script>
+    <title> Matthieu Cneude | Third-party components </title>
+
+    
+    <meta charset="utf-8"><meta name="generator" content="Hugo 0.147.5"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="description" content="Weird Thoughts And Stuff">
+    
+    <link rel="stylesheet"
+          href="http://localhost:1818/garden/css/style.min.924f03d617d2e634c7f20cdeefecab07166ddae98744168617b440444ff23313.css"
+          integrity="sha256-kk8D1hfS5jTH8gze7&#43;yrBxZt2umHRBaGF7RARE/yMxM="
+          crossorigin="anonymous"
+          type="text/css">
+    
+    <link rel="stylesheet"
+        href="http://localhost:1818/garden/css/markupHighlight.min.8735c129318a1c824d066fc2cd1e3911054460819c296ac99007aeb5044b6605.css"
+        integrity="sha256-hzXBKTGKHIJNBm/CzR45EQVEYIGcKWrJkAeutQRLZgU="
+        crossorigin="anonymous"
+        type="text/css">
+    
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+          integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+          crossorigin="anonymous" />
+
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Noto Serif:regular,bold,italic,bolditalic|Open Sans"
+          crossorigin="anonymous">
+
+    
+    <link rel="shortcut icon" href="http://localhost:1818/garden/favicons/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1818/garden/favicons/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1818/garden/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1818/garden/favicons/favicon-16x16.png">
+
+    <link rel="canonical" href="http://localhost:1818/garden/post/third-party/">
+
+    
+    
+    
+    
+    <script type="text/javascript"
+            src="http://localhost:1818/garden/js/anatole-header.min.df804b63b5bd8474ea0756ea874bc8f1e92552708cc6ea43aa0d76981dc419f9.js"
+            integrity="sha256-34BLY7W9hHTqB1bqh0vI8eklUnCMxupDqg12mB3EGfk="
+            crossorigin="anonymous"></script>
+
+
+    
+        
+        
+        <script type="text/javascript"
+                src="http://localhost:1818/garden/js/anatole-theme-switcher.min.3829579c725749492568b0e6fa9da3012a7fc37fd291b4fd79e33c1df5d8a34a.js"
+                integrity="sha256-OClXnHJXSUklaLDm&#43;p2jASp/w3/SkbT9eeM8HfXYo0o="
+                crossorigin="anonymous"></script>
+    
+    
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="http://localhost:1818/garden/images/site-feature-image.png">
+  <meta name="twitter:title" content="Third-party components">
+  <meta name="twitter:description" content="Some learning about third party libraries, APIs, and whatnot.
+Never trust third parties. You don’t control them. Trust them even less than that. Isolate them as much as possible from the code you’ve written. Be prepared to swap them to other alternatives. If possible, have some end-to-end tests for the data you’re receiving. Creating fixtures from the data you fetch from time to time looks like the best solution. Use your own app daily to be aware quickly when one of them fail.">
+
+</head>
+<body><div class="sidebar . ">
+    <div class="logo-title">
+        <div class="title">
+            <img src="http://localhost:1818/garden/images/garden_small.png" alt="profile picture">
+            <h3 title=""><a href="/garden">Garden of Experience</a></h3>
+            <div class="description">
+                <p>Weird Thoughts And Stuff</p>
+            </div>
+        </div>
+    </div>
+    <ul class="social-links">
+        
+            <li>
+                <a href="https://thevaluable.dev" rel="me" target="_blank" aria-label="The Valuable Dev">
+                    <i class="fas fa-gem fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://github.com/Phantas0s" rel="me" target="_blank" aria-label="GitHub">
+                    <i class="fab fa-github fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://twitter.com/Cneude_Matthieu" rel="me" target="_blank" aria-label="Twitter">
+                    <i class="fab fa-twitter fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+            <li>
+                <a href="/garden/index.xml" rel="me" target="_blank" aria-label="RSS">
+                    <i class="fa fa-rss fa-2x" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+    <div class="footer">
+        <div class="by_farbox">&copy; Matthieu Cneude  2025 </div>
+    </div>
+</div>
+<div class="main">
+    <div class="page-top  . ">
+    <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+    </a>
+    <ul class="nav" id="navMenu">
+        
+        
+            
+            <li><a 
+                   href="/garden/"
+                        
+                   title="">Home</a></li>
+        
+            
+            <li><a 
+                   href="/garden/post/"
+                        
+                   title="">Posts</a></li>
+        
+        
+            <li class="theme-switch-item">
+                <a class="theme-switch" title="Switch Theme">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+    <div class="autopagerize_page_element">
+        <div class="content">
+    <div class="post  . ">
+        <div class="post-content">
+            
+            <div class="post-title">
+                <h3>Third-party components</h3>
+                
+                    <div class="info">
+                        <em class="fas fa-calendar-day"></em>
+                        <span class="date"> Fri, Feb 5, 2021
+                                           </span>
+                        <em class="fas fa-stopwatch"></em>
+                        <span class="reading-time">One-minute read</span>
+                    </div>
+                
+            </div>
+
+            <p>Some learning about third party libraries, APIs, and whatnot.</p>
+<ol>
+<li>Never trust third parties. You don&rsquo;t control them.</li>
+<li>Trust them even less than that.</li>
+<li>Isolate them as much as possible from the code you&rsquo;ve written. Be prepared to swap them to other alternatives.</li>
+<li>If possible, have some end-to-end tests for the data you&rsquo;re receiving. Creating fixtures from the data you fetch from time to time looks like the best solution.</li>
+<li>Use your own app daily to be aware quickly when one of them fail.</li>
+</ol>
+</div>
+        <div class="post-footer">
+            <div class="info">
+                
+                <span class="separator"><a class="tag" href="/garden/tags/development/">development</a></span>
+
+            </div>
+        </div>
+
+        
+    </div>
+
+
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/jquery.min.21ad544cace1cdad8d2b0acbd2a0f53a4cc73a1ff35720baeb69eac49b083fb8.js"
+        integrity="sha256-Ia1UTKzhza2NKwrL0qD1OkzHOh/zVyC662nqxJsIP7g="
+        crossorigin="anonymous"></script>
+
+
+
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/bundle.min.e1708c9f2f2ef008d86194c6201839f1be346eb6f6b86ddb53d17973ac3f80cc.js"
+        integrity="sha256-4XCMny8u8AjYYZTGIBg58b40brb2uG3bU9F5c6w/gMw="
+        crossorigin="anonymous"></script>
+
+<script type="text/javascript"
+        src="http://localhost:1818/garden/js/medium-zoom.min.00f0d88de05977c48e4c08c312d320dafb8f9c17cb793047b360556dac1cac7c.js"
+        integrity="sha256-APDYjeBZd8SOTAjDEtMg2vuPnBfLeTBHs2BVbawcrHw="
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
