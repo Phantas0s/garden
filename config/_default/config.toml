@@ -68,11 +68,6 @@ title = "GitHub"
 url = "https://github.com/Phantas0s"
 
 [[params.socialIcons]]
-icon = "fab fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/Cneude_Matthieu"
-
-[[params.socialIcons]]
 icon = "fa fa-rss"
 title = "RSS"
 url = "/garden/index.xml"
